@@ -1,9 +1,8 @@
-## Overview
+## Infrastructure as a code (IaC)
 
-This repository contains Terraorm cofiguration files which are used to create an infrastructure on Google Cloud Platform.
+IaC allows us to create and manage cloud resources such as virutal private networks, storages, etc using a code/script. It enables automation and versioning of the procedures used to maintain an infrastructure. Using IaC we can easily reproduce an environment e.g. a staging or production in a greater speed.
 
-This is **part 1 of a final project** done as part of SheCodeAfrica - Cloud School Bootcamp.
+This project demonstrates the implementaion of IaC using Terraorm on Google Cloud Platform.
 
-Detailed information regarding the content of this repository can be found on the article that I wrote.
-
+A detailed article on this can be found on the following link: 
 https://bezu.hashnode.dev/iac-kubernetes-cicd-a-complete-setup-guide 
